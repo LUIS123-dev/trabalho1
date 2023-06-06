@@ -1,0 +1,3 @@
+script:
+  - npm install  # ou yarn install, se você estiver usando yarn
+  - npm test     # ou yarn test
